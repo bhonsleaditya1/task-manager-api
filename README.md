@@ -20,5 +20,5 @@
   
 + _/api/v1/tasks/:id_
   - **GET** - get task with id 
-  - **PUT** - update task
+  - **PATCH** - update task
   - **DELETE** - delete task
