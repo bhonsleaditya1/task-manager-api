@@ -3,7 +3,10 @@
 * **MVC** pattern for performing CRUD on Task Object
 * **MongoDB** used for persisting Tasks data
 * **NodeJS** for backend/server logic 
-* **Express** for serving the API
+* **Express** for serving the API & adding Middleware
+  + DB/Object Error Handling
+  + Async Functions
+  + Route Error Handling
 
 ### Task Schema:
 + _id: _(Provided by MongoDB)_
